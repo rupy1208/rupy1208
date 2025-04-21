@@ -2,9 +2,6 @@
 UCLA MSBA '25
 📈 Customer-Centric Analyst | ✈️ Cross-Industry Experience | 🔍 Thoughtful Problem Solver
 
-<!--
-**rupy1208/rupy1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 💼 Work Experiences
 
 - **Data Analyst (Full time)** – Readybloom (E-Commerce)  
