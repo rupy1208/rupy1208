@@ -13,7 +13,7 @@ UCLA MSBA '25
 - **Passenger Experience Specialist (Full time)** – Korean Air (Korea’s #1 Airline)  
   Handled 100+ daily passenger interactions with 92% satisfaction. Improved VIP processing and reduced wait time through preference data analysis.
 
-- **Marketing Assistant** – Seoul Tourism Organization  
+- **Marketing Assistant (Full time)** – Seoul Tourism Organization  
   Launched E-CRM system and improved conversion by 23%. Managed $12.7M in conference support and led data-driven stakeholder presentations.
 
 - **Data Analytics Consultant (Pro Bono)** – Audiomusica (UCLA MSBA Project)  
