@@ -1,8 +1,8 @@
-## Data Scientist / Data Analyst 
-UCLA MSBA '25
+**Data Scientist / Data Analyst** 
+UCLA MSBA '25  
 📈 Customer-Centric Analyst | ✈️ Cross-Industry Experience | 🔍 Thoughtful Problem Solver
-
-## 💼 Work Experiences
+---
+**💼 Work Experiences**
 
 - **Data Analyst (Full time)** – Readybloom (E-Commerce)  
   First data hire, Built predictive & prescriptive models, driving 500% ROAS and 600% sales spike. Designed dashboards and improved marketing performance with Google Analytics and SQL.
