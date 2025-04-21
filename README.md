@@ -8,7 +8,7 @@ UCLA MSBA '25
 ### 💼 Work Experiences
 
 - **Data Analyst (Full time)** – Readybloom (E-Commerce)  
-  First data hire, Built predictive & prescriptive models, driving 500% ROAS and 600% sales spike. Designed dashboards and improved marketing performance with Google Analytics and SQL.
+  First data hire, built the analytical foundation for data-driven decisions. predictive & prescriptive models, driving 500% ROAS and 600% sales spike. Designed dashboards and improved marketing performance with Google Analytics and SQL.
 
 - **Passenger Experience Specialist (Full time)** – Korean Air (Korea’s #1 Airline)  
   Handled 100+ daily passenger interactions with 92% satisfaction. Improved VIP processing and reduced wait time through preference data analysis.
