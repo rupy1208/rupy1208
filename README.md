@@ -2,7 +2,7 @@
 
 UCLA MSBA '25  
 📈 Customer-Centric Analyst | 🛫 Cross-Industry Experience | 🔍 Thoughtful Problem Solver  
-- Data professional passionate about making customer experiences better—through models, insights, and a customer-first mindset
+- 👀 I’m data professional passionate about making customer experiences better—through models, insights, and a customer-first mindset
 - Linkedin : https://www.linkedin.com/in/sunalee77/
 
 ### 💼 Work Experiences
