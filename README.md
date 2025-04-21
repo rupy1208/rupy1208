@@ -1,8 +1,11 @@
-**Data Scientist / Data Analyst** 
+### Data Scientist / Data Analyst  
+
 UCLA MSBA '25  
-📈 Customer-Centric Analyst | ✈️ Cross-Industry Experience | 🔍 Thoughtful Problem Solver
----
-**💼 Work Experiences**
+📈 Customer-Centric Analyst | 🛫 Cross-Industry Experience | 🔍 Thoughtful Problem Solver  
+- Data professional passionate about making customer experiences better—through models, insights, and a customer-first mindset
+- Linkedin : https://www.linkedin.com/in/sunalee77/
+
+### 💼 Work Experiences
 
 - **Data Analyst (Full time)** – Readybloom (E-Commerce)  
   First data hire, Built predictive & prescriptive models, driving 500% ROAS and 600% sales spike. Designed dashboards and improved marketing performance with Google Analytics and SQL.
