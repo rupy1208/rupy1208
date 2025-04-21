@@ -1,4 +1,5 @@
-## Hi there 👋
+## Data Scientist / Data Analyst 
+📈 Customer-Centric Analyst | ✈️ Cross-Industry Experience | 🔍 Thoughtful Problem Solver
 
 <!--
 **rupy1208/rupy1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
