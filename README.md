@@ -8,14 +8,14 @@ UCLA MSBA '25
 
 ### 💼 Work Experiences
 
+- **Data Science Intern (Full time)** — CardinalHire (Recruiting Tech)
+  I identified critical cost and consistency bottlenecks in an LLM-only matching pipeline and engineered a hybrid retrieval prototype ( BM25+ Semantic Search) that demonstrated a 10% accuracy gain and 80% cost-reduction potential. After the company adopted my architectural roadmap, I spent my final quarter securing the production foundation by stabilizing the upstream parsing and normalization layers to ensure high-fidelity data for the new system.
+  
 - **Data Analyst (Full time)** – Readybloom (E-Commerce)  
-  First data hire, built the analytical foundation for data-driven decisions. predictive & prescriptive models, driving 500% ROAS and 600% revenue spike. Designed dashboards and improved marketing performance with Google Analytics and SQL.
+  As the first data hire, I established the end-to-end analytical infrastructure by implementing GA4/GTM tracking and automated ETL pipelines. I developed a Marketing-Mix Model (MMM) and a cluster-based retention engine that drove a 600% revenue spike and an 18% lift in repeat purchases, proving the value of data-driven decision-making in an early-stage growth environment.
 
-- **Passenger Experience Specialist (Full time)** – Korean Air (Korea’s #1 Airline)  
-  Handled 100+ daily passenger interactions with 92% satisfaction. Improved VIP processing and reduced wait time through preference data analysis.
+- **Airport Operations Associate (Full time)** – Korean Air (Loyalty)
+  optimized VIP service operations by analyzing real-time passenger flow data to eliminate bottlenecks and reduce peak wait times by 15%. By standardizing handoff protocols across cross-functional teams, I ensured a seamless end-to-end journey that resulted in a 92%+ customer satisfaction score
 
-- **Marketing Assistant (Full time)** – Seoul Tourism Organization  
-  Launched E-CRM system and improved conversion by 23%. Managed $12.7M in conference support and led data-driven stakeholder presentations.
-
-- **Data Analytics Consultant (Pro Bono)** – Audiomusica (UCLA MSBA Project)  
-  Developing price optimization and propensity models to improve targeting and drive customer engagement.
+- **Marketing Assistant (Full time)** – Seoul Tourism Organization (Public Sector)  
+  I tackled the problem of fragmented stakeholder data by integrating diverse datasets into a unified CRM ecosystem, boosting conversion rates by 23%. I also administered $12.7M in city subventions through data-driven reporting and visualization to ensure transparent and efficient management across 130 partners.
